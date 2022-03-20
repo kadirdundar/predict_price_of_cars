@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @kadirdundar
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning machine learning
+kaggle'dan aldığımız gerçek veriler ile arabaların belirli metriklere göre değerini belirleyen bir kod yazdık.Datasetimizde olağan dışı olan verileri kaldırdık ve diğer gerekli düzenlemeleri yaptık.Daha sonra modelimizi oluşturduk ve modelimizin kontrolünü gerçekleştirdik.
 
 - 📫 How to reach me kdrdnr55@icloud.com
 
